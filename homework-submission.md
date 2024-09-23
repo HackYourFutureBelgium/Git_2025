@@ -70,8 +70,8 @@
 
 1. Follow the PR to see the review (if you submitted it on time) and interact with the reviewer as well as make the suggested changes.
 
-2. When you have made changes to the code since the homework submission and review, push the changes and close the PR`*`.
+2. When you have made changes to the code since the homework submission and review, push the changes and close the PR without merging`*`.
 
-> `*` Why you should close the PR and not merge it? PRs are normally intended to merg code!
+> `*` Why you should close the PR _without_ merging? PRs are normally intended to merge code!
 >
-> It is because you are sharing a central homework repository. We do not aim to merge all your homeworks into one clump - that does not make any sense and would be a very chaotic process as you are implementing your homeworks in the same folders, and some of you might even have the same naming. The more you understand about Git, the more this will make sense. The point here is just to have a convenient submission process while you also practise shared repository handling every week.
+> It's because you are sharing a central homework repository. We do not aim to merge all your homeworks into one clump - that does not make any sense and would be a very chaotic process as you are implementing your homeworks in the same folders, and some of you might even have the same naming. The more you understand about Git, the more this will make sense. The point here is just to have a convenient submission process while you also practise shared repository handling every week.
