@@ -2,18 +2,18 @@
 
 ## TL;DR
 
-- [ ] start any coding session from `main`.
-- [ ] periodically keep your local `main` up to date with changes in the remote `main`.
-- [ ] periodically merge the up-to-date local `main` into your homework branch.
-- [ ] always checkout to a new homework branch from `main`.
-- [ ] did we mention `main`?
-- [ ] implement the homework in the right folder.
-- [ ] write meaningful commit messages.
-- [ ] before pushing, double check that your branch name is correct.
-- [ ] if the branch name is not correct, you can checkout to a new, correct branch from the current branch - you will carry all the commits with you.
-- [ ] if your PR has been auto-closed, do not reopen it. Follow the guidlines and make a proper PR.
-- [ ] stay patient. Slack, Google and ChatGPT are your best friends now.
-- [ ] make the changes as per PR review in the appropriate branch, push the changes to the appropriate branch and close the PR.
+- [ ] Start any coding session from `main`.
+- [ ] Periodically keep your local `main` up to date with changes in the remote `main`.
+- [ ] Periodically merge the up-to-date local `main` into your homework branch.
+- [ ] Always checkout to a new homework branch from `main`.
+- [ ] Did we mention `main`?
+- [ ] Implement the homework in the right folder.
+- [ ] Write meaningful commit messages.
+- [ ] Before pushing, double check that your branch name is correct.
+- [ ] If the branch name is not correct, you can checkout to a new, correct branch from the current branch - you will carry all the commits with you.
+- [ ] If your PR has been auto-closed, do not reopen it. Follow the guidlines and make a proper PR.
+- [ ] Stay patient. Slack, Google and ChatGPT are your best friends now.
+- [ ] Make the changes as per PR review in the appropriate branch, push the changes to the appropriate branch, and close the PR.
 
  <br/>
 
