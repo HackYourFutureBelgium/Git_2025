@@ -10,7 +10,7 @@ Here are a few resources that might be useful:
  - for when things really go wrong: https://ohshitgit.com/ (be careful using this!).
 
 
-A couple of videos recommended by class10 student Lilla Kőrösi:
+A couple of videos recommended by previous students:
   - [https://youtu.be/BCQHnlnPusY](https://youtu.be/BCQHnlnPusY)
   - [https://youtu.be/oPpnCh7InLY](https://youtu.be/oPpnCh7InLY)
 
